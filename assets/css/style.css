@@ -1,0 +1,28 @@
+body{
+    background: #e1e5af;
+}
+
+header h1 {
+    color: aliceblue;
+    font-weight: bold;
+}
+
+.card-body h5{
+    background: #07b3cd;
+    color: aliceblue;
+    padding: 12px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.card
+{
+    box-shadow: 10px 5px 5px rgb(60, 58, 58);
+}
+
+.modal-header
+{
+    background: #11005d;
+    color : #ffffff;
+    
+}
